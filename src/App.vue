@@ -2,7 +2,6 @@
   <v-app id="inspire">
     <Navbar />
     <TopBar />
-
     <v-main>
       <router-view></router-view>
       <Footer />

@@ -1,7 +1,7 @@
 <template>
   <v-container class="about" fluid>
     <h1 class="text-center pt-2 white--text text-uppercase">Our Services</h1>
-    <v-row class="px-4">
+    <v-row class="px-4 pb-10">
       <v-col :md="3">
         <v-card elevation="5">
           <v-img

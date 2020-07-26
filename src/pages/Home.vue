@@ -2,7 +2,7 @@
   <v-container class="landing" fluid>
     <div class="v-row">
       <v-col
-        class="landing-content text-center ma-auto pt-15"
+        class="landing-content text-center ma-auto pt-md-15 pb-15"
         :md="8"
         :justify="center"
         :align="center"

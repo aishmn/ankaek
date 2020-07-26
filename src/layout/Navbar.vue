@@ -78,7 +78,7 @@
 <script>
 export default {
   data: () => ({
-    navDrawer: true,
+    navDrawer: false,
   }),
   created() {
     this.$bus.$on("drawer", () => {
