@@ -1,21 +1,10 @@
 <template>
-  <v-app-bar
-    :clipped-left="$vuetify.breakpoint.lgAndUp"
-    app
-    color="#464646"
-    class="topnav"
-  >
-    <v-icon @click.stop="$bus.emit('drawer')" medium color="#fafafa" large
-      >mdi-menu-open</v-icon
-    >
+  <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" app color="#464646" class="topnav">
+    <v-icon @click.stop="$bus.emit('drawer')" medium color="#fafafa" large>mdi-menu-open</v-icon>
     <v-toolbar-title style="width: 300px" class="ml-0 pl-3">
-      <span class="anka">
-        anka
-        <span class="ek">
-          EK
-          <sup class="tm">TM</sup>
-        </span>
-      </span>
+      <v-avatar tile rounded="false" width="110" class="mb-1">
+        <img src="../assets/logo.png" />
+      </v-avatar>
     </v-toolbar-title>
     <v-spacer></v-spacer>
   </v-app-bar>

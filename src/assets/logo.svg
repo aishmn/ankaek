@@ -1,1 +1,21 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 100"><defs><style>.cls-1{fill:#1697f6;}.cls-2{fill:#7bc6ff;}.cls-3{fill:#1867c0;}.cls-4{fill:#aeddff;}</style></defs><title>Artboard 46</title><polyline class="cls-1" points="43.75 0 23.31 0 43.75 48.32"/><polygon class="cls-2" points="43.75 62.5 43.75 100 0 14.58 22.92 14.58 43.75 62.5"/><polyline class="cls-3" points="43.75 0 64.19 0 43.75 48.32"/><polygon class="cls-4" points="64.58 14.58 87.5 14.58 43.75 100 43.75 62.5 64.58 14.58"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="6234.000000pt" height="2856.000000pt" viewBox="0 0 6234.000000 2856.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,2856.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M34530 15650 l0 -8150 4725 0 4725 0 0 1105 0 1105 -3370 0 -3370 0
+0 2545 0 2545 2600 0 2600 0 0 1090 0 1090 -2600 0 -2600 0 0 2325 0 2325
+3315 0 3315 0 0 1085 0 1085 -4670 0 -4670 0 0 -8150z"/>
+<path d="M45770 15650 l0 -8150 1355 0 1355 0 0 2674 0 2674 953 1355 c523
+746 955 1357 958 1357 3 0 822 -1812 1820 -4026 997 -2215 1818 -4028 1824
+-4030 5 -2 667 -3 1470 -2 l1460 3 -2458 5154 -2458 5155 29 40 c93 131 4142
+5896 4156 5919 l18 27 -1433 0 -1434 0 -2450 -3871 -2450 -3872 -3 3872 -2
+3871 -1355 0 -1355 0 0 -8150z"/>
+</g>
+</svg>
